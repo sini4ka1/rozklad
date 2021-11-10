@@ -1,0 +1,29 @@
+table{
+    border: 2px solid black;
+    border-collapse: collapse;
+    
+}
+tr, td{
+    border: 2px solid black;
+    width: 500px;
+    height: 100px;
+    text-align:center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background: linear-gradient(45deg, #EECFBA, #C5DDE8);
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+}
+h1:hover{
+    color: aqua;
+
+}
+
+tr:hover {
+    color: aqua;
+    font-size: 30px;
+} 
+     
